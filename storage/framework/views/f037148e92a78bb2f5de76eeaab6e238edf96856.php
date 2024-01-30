@@ -1,0 +1,3 @@
+<svg aria-hidden="true" class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+</svg><?php /**PATH /var/www/top-patissier.net/storage/framework/views/5a9220b41cd2eb1cdfe2ca2eeafb5b87c4e8cbc3.blade.php ENDPATH**/ ?>
