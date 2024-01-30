@@ -19,7 +19,7 @@ use App\Models\Candidature;
 use App\Mail\SendMail;
 use App\Models\Maillog;
 
-
+ 
 class CandidatController extends Controller
 {
     /**
