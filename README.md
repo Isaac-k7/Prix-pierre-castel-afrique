@@ -1,2 +1,2 @@
-# Prix-piere-castel-afrique
+# Prix-pierre-castel-afrique
 Prix Pierre Castel Afrique
